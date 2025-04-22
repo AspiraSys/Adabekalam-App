@@ -1,0 +1,2 @@
+E:/Muzammil/AspiraSys/shayari_app/android/app/.cxx/RelWithDebInfo/33161c1z/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/Muzammil/AspiraSys/shayari_app/android/app/.cxx/RelWithDebInfo/33161c1z/armeabi-v7a/CMakeFiles/rebuild_cache.dir

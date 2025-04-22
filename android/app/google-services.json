@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660171371502",
+    "project_id": "shayari-0",
+    "storage_bucket": "shayari-0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660171371502:android:79c9c5a824d58e411b94ff",
+        "android_client_info": {
+          "package_name": "com.example.shayari_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWGq4osXqK2EIulRbDR2QQtL597Qv5VXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
