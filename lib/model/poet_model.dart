@@ -49,7 +49,7 @@ class Poet {
         "awards": List<dynamic>.from(awards.map((x) => x)),
         "education": List<dynamic>.from(education.map((x) => x)),
         "work": List<dynamic>.from(work.map((x) => x)),
-        "mood": List<dynamic>.from(work.map((x) => x)),
+        "mood": List<dynamic>.from(mood.map((x) => x)),
 
         "language": language,
     };
